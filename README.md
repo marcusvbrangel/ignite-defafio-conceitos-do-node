@@ -2,13 +2,13 @@
 
 </br>
 
-## About 
+## About :cyclone:
 
 #### This is an application to manage tasks. It will be allowed to create a user with name and username, as well as CRUD tasks:
 
 </br>
 
-## requirements
+## requirements :cyclone:
 
 - [ x ] Create a new todo.
 - [ x ] List all todos.
@@ -19,7 +19,7 @@
 
 </br>
 
-## Tests
+## Tests :cyclone:
 
 - [ x ] Should be able to list all user's todos.
 - [ x ] Should be able to create a new todo.
@@ -32,7 +32,7 @@
 
 </br>
 
-## Application routes
+## Application routes :cyclone:
 
 * <b>POST</b> /users
 * <b>GET</b> /todos
@@ -54,7 +54,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 </br>
 
-## Dependency libraries
+## Dependency libraries :cyclone:
 
 * cors
 * express
