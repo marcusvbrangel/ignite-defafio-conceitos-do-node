@@ -98,7 +98,7 @@ npm run dev
 
 ## Contributing :cyclone:
 
-Have a look through existing [Issues](issues) and [Pull Requests](pulls) that you could help with.
+Have a look through existing [Issues](/issues) and [Pull Requests](/pulls) that you could help with.
 
 <br />
 
