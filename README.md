@@ -1,10 +1,15 @@
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+
+</br>
+
 # Ignite Node - Node.js concepts
 
 </br>
 
 ## About :cyclone:
 
-#### This is an application to manage tasks. It will be allowed to create a user with name and username, as well as CRUD tasks:
+#### This is an application to manage tasks. It will be allowed to create a user with name and username, as well as CRUD tasks.
 
 </br>
 
@@ -93,7 +98,7 @@ npm run dev
 
 ## Contributing :cyclone:
 
-Have a look through existing [Issues](https://github.com/marcusvbrangel/ignite-node/issues) and [Pull Requests](https://github.com/marcusvbrangel/ignite-node/pulls) that you could help with.
+Have a look through existing [Issues](issues) and [Pull Requests](pulls) that you could help with.
 
 <br />
 
