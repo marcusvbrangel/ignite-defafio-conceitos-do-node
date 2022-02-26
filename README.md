@@ -143,6 +143,6 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 Copyright (c) Marcus Rangel. All rights reserved.
 
-Licensed under the [MIT](LICENSE.md) license.
+Licensed under the [MIT](LICENSE) license.
 
 
